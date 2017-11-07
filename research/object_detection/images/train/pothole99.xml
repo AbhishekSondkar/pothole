@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>potholes</folder>
+	<filename>pothole99.jpg</filename>
+	<path>C:/Users/Abhishek Sondkar/Desktop/potholes/pothole99.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>119</ymin>
+			<xmax>215</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>
